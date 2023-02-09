@@ -6,29 +6,29 @@ Poista sitten *kaikki* suluilla merkityt kohdat.)
 
 ## Tietoja 
 
-Tekijä: (Etunimi Sukunimi)
+Tekijä: Heikki Mononen
 
-Työ git-varaston osoite: <https://gitlab.jyu.fi/anlakane/ohj1ht> (*Korvaa* tämä osoite oman git-varastosi osoitteella)
+Työ git-varaston osoite: <https://github.com/htmono/ohj1ht.git> (*Korvaa* tämä osoite oman git-varastosi osoitteella)
 
-Pelin nimi: (Nimi)
+Pelin nimi: Super Ari O
 
-Pelialusta: Windows/macOS/Linux (Valitse alusta)
+Pelialusta: Linux
 
-Pelaajien lukumäärä: 1/2/3/4 (Valitse pelaajien lukumäärä)
+Pelaajien lukumäärä: 1
 
 ## Pelin tarina
 
-(Pelin tarina.)
+Savolainen putkimies Ari O yrittää estää Kalpan pelin keskeytymisen kun jäähallin putket paukkuvat pakkasilla.
 
 ## Pelin idea ja tavoitteet
 
-(Pelin idea ja tavoitteet.)
+Peli on ylhäältä kuvattu 2D-peli jossa pelaaja liikkuu pelihahmollaan tukkimassa satunnaisiin kohtiin ilmestyneet vuodot. Vuotoja tulee satunnaisesti (esim. 3-10kpl?) pitkin kenttää ja niistä saa pisteen kävelemällä niiden päälle. Jos pelaaja ei saa kaikkia vuotoja tukittua ennen aikarajan umpeutumista, hän häviää.
 
 ## Hahmotelma pelistä
 
 (Kun olet lisännyt suunnitelmakuvan tähän hakemistoon, linkitä se tähän alle. Alla on esimerkkikuvan linkitys.)
 
-![Esimerkkikuva](esimerkkikuva.png "Esimerkkikuva")
+![Esimerkkikuva](https://github.com/htmono/ohj1ht/blob/master/suunnitelma/putkimies_esimerkki.png "Esimerkkikuva")
 
 ## Toteutuksen suunnitelma
 
