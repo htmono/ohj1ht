@@ -1,14 +1,10 @@
 # Harjoitustyön suunnitelma
 
-(Täydennä oman pelisi tiedot tähän tiedostoon muokkaamalla 
-tiedostoa tekstieditorissa. Käytä [Markdown-syntaksia](https://about.gitlab.com/handbook/markdown-guide/).
-Poista sitten *kaikki* suluilla merkityt kohdat.)
-
 ## Tietoja 
 
 Tekijä: Heikki Mononen
 
-Työ git-varaston osoite: <https://github.com/htmono/ohj1ht.git> (*Korvaa* tämä osoite oman git-varastosi osoitteella)
+Työ git-varaston osoite: <https://github.com/htmono/ohj1ht.git>
 
 Pelin nimi: Super Ari O
 
@@ -34,18 +30,12 @@ Peli on ylhäältä kuvattu 2D-peli jossa pelaaja liikkuu pelihahmollaan tukkima
 
 Helmikuu
 
-- (Tavoite 1)
-- (Tavoite 2)
-- (Tavoite 3)
+- Aloittaa projektin teko
 
 Maaliskuu
 
-- (Tavoite 1)
-- (Tavoite 2)
-- (Tavoite 3)
+- 
 
 Jos aikaa jää
 
-- (Tavoite 1)
-- (Tavoite 2)
-- (Tavoite 3)
+-
