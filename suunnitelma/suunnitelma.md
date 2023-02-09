@@ -34,8 +34,11 @@ Helmikuu
 
 Maaliskuu
 
-- 
+- Hahmon luonti ja liikkuminen, kenttä
+- Vesisuihkut
+- Pisteet ja voittomahdollisuus
 
 Jos aikaa jää
 
--
+- Vihollisia häiritsemässä pelaajaa
+
